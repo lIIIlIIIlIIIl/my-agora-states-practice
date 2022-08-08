@@ -30,7 +30,7 @@ export const Form = ({ addDiscussion }) => {
           </div>
         </div>
         <div className="form__submit">
-          <input type="submit" value="submit" />
+          <input type="submit" value="submit" id="submit"/>
         </div>
       </form>
     </section>
